@@ -1,0 +1,6 @@
+{
+  "issuer": "https://fredguile.github.io",
+  "jwks_uri": "https://fredguile.github.io/.well-known/jwks.json",
+  "client_name": "fredguile",
+  "logo_uri": "https://avatars.githubusercontent.com/u/209813?v=4"
+}
