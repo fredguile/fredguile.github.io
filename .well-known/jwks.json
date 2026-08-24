@@ -3,8 +3,8 @@
     {
       "kty": "OKP",
       "crv": "Ed25519",
-      "x": "xMZ3nTrN7bFQyxgsr_xOjajBJexl7A0VoJ7A5q7fFR8",
-      "kid": "2026-08-24_6ac",
+      "x": "JrIx7qzi5Fyl6oLG67GFy18IaPc5mEJSdqNqiiR3IFc",
+      "kid": "2026-08-24_4d1",
       "use": "sig",
       "alg": "Ed25519",
       "aauth": {
